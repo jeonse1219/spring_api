@@ -34,5 +34,5 @@ maria db에 예시데이터를 작성하고 실습
 3차과제에서 작성한 API와 SQL(5가지)를 중심으로 API를 개발
 
 사용한 테이블:
-
+![image](https://user-images.githubusercontent.com/75518309/106894450-5b235500-6732-11eb-8701-5d8e8bcc458e.png)
 
