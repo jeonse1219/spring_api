@@ -29,3 +29,10 @@ maria db에 예시데이터를 작성하고 실습
 
 ![실습캡처2](https://user-images.githubusercontent.com/75518309/106094684-bfb04400-6175-11eb-864c-08808f2b7539.PNG)
 
+# 4주차
+
+3차과제에서 작성한 API와 SQL(5가지)를 중심으로 API를 개발
+
+사용한 테이블:
+
+
